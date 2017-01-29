@@ -1,0 +1,1 @@
+Niqest - social network, like facebook, vk.com, wechat. You have your page with posts, friends, messages. That's all. This project has been created by Vadym Borys just for code example.
